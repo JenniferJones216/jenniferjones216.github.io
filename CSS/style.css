@@ -98,6 +98,7 @@ section ul {
 #projects article {
     background: rgb(116, 164, 150);
     padding: 1em;
+    margin-bottom: 10px;
 }
 
 #projects article img {
